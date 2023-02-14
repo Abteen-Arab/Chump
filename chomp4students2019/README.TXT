@@ -7,5 +7,3 @@ are friendly to array subscripts.  For example, if it wants to fill the entire
 4x7 CharMatrix with 'P', it would call
 
 fillRect(0,0,3,6,'P');
-
-Think about how this will affect your conditional statement in your for loop.
